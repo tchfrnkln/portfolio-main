@@ -25,9 +25,9 @@ const portfolio = [
     {
         id: 1,
         projectName: "C-CHU Global",
-        // url: "https://absco.sa/",
+        url: "https://silasumekwe.com/gem/",
         image: "projects/cchuGlobal.png",
-        projectDetail: "Get Premium Advices and Assistance to making informed decision in the Financial Market",
+        projectDetail: "A Software as a Service that provides Advices and Assistance to making informed decision in the Financial Market",
         technologiesUsed: [
             {
                 tech: "Javascript"

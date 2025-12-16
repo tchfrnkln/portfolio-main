@@ -14,7 +14,7 @@ const ReviewCard = ({ data }) => {
                             <em>{data?.clientLocation}</em>
                         </div>
                     </div>
-                    <span className='text-sm text-LightGray font-light'>{data?.clientSource}</span>
+                    <span className='text-sm text-LightGray font-light'>Source: {data?.clientSource}</span>
                 </div>
                 <div className="text-sm mt-2 text-LightGray font-normal">
                     {data.clientReview}

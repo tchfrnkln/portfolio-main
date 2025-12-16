@@ -3,38 +3,24 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'Federal University Of Abuja, Nigeria',
+                title: 'University Of Abuja, Nigeria',
                 degree: 'BSC, Computer Science',
                 detail: "Bachelor's Degree in Computer Science from University Of Abuja",
                 year: '2018-2023'
             },
-            // {
-            //     id: 1,
-            //     title: 'Peshawar Model Degree College',
-            //     degree: 'HSSC, Pre Engineering',
-            //     detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-            //     year: '2015-2017'
-            // },
-            // {
-            //     id: 2,
-            //     title: 'Falcon Academy',
-            //     degree: 'SSC, Science Subjects',
-            //     detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-            //     year: '2013-2015'
-            // },
         ]
     },
     {
         expCards: [
-            {
-                id: 1,
-                title: 'SToR Technologies',
-                role: 'Full Stack Developer',
-                // url: 'https://jmm.ltd/',
-                desc: 'Coordinated efficient large-scale software deployments; Managed development milestones from initial steps through final delivery.',
-                year: '06/2021 - 01/2022',
-                location: 'Abuja, Nigeria'
-            },
+            // {
+            //     id: 1,
+            //     title: 'SToR Technologies',
+            //     role: 'Full Stack Developer',
+            //     // url: 'https://jmm.ltd/',
+            //     desc: 'Coordinated efficient large-scale software deployments; Managed development milestones from initial steps through final delivery.',
+            //     year: '06/2021 - 01/2022',
+            //     location: 'Abuja, Nigeria'
+            // },
             {
                 id: 2,
                 title: 'C-CHU Global',

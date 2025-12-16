@@ -5,26 +5,22 @@ export const DESIGNATION = `IOS and Android Developer | Expert Frontend Develope
 export const DETAILS = {
   Residence: 'Nigeria',
   City: 'Abuja',
-  Age: '24',
+  Age: '23',
 };
 
 export const SKILLS = [
   {
-    title: 'Frontend Developer',
+    title: 'Frontend Development',
     level: '99%',
   },
   {
-    title: 'React Native Developer',
+    title: 'React Native Development',
     level: '96%',
   },
   {
-    title: 'Ios Developer',
-    level: '94%',
-  },
-  {
-    title: 'Andriod Developer',
-    level: '92%',
-  },
+    title: 'Backend Development',
+    level: '70%',
+  }
 ];
 
 export const TECH_STACK = [
@@ -48,7 +44,6 @@ export const TECH_STACK = [
   'Git',
   'GitHub',
   'Figma',
-  'Nodejs',
   'Expo'
 ];
 
@@ -59,5 +54,5 @@ export const CONTACTS = {
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/tchfrnkln',
   LINKEDIN: 'https://www.linkedin.com/in/tchfrnkln/',
-  TWITTER: 'https://x.com/amb_Franklin'
+  // TWITTER: 'https://x.com/amb_Franklin'
 };
